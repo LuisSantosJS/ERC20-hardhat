@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/luis/Documents/hardhat-tutorial/contracts/BRLT.sol": {
-      "lastModificationDate": 1642184406745,
-      "contentHash": "10e65e6661410a8114579015a125fb0f",
+      "lastModificationDate": 1642302526205,
+      "contentHash": "df887273a5ad99d4c40b34da75378d62",
       "sourceName": "contracts/BRLT.sol",
       "solcConfig": {
         "version": "0.8.0",

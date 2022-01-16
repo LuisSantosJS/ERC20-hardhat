@@ -13,7 +13,7 @@ contract BRLT is IERC20, Ownable, Pausable {
     string internal _name = "BRL Token";
     string internal _symbol = "BRLT";
     uint8 internal _decimals = 2;
-    uint256 internal _totalSupply = 1000;
+    uint256 internal _totalSupply = 0;
 
     mapping(address => uint256) internal _balances;
     mapping(address => mapping(address => uint256)) internal _allowed;
