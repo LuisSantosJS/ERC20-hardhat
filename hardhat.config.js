@@ -5,7 +5,7 @@ module.exports = {
   solidity: "0.8.0",
   networks: {
     ropsten: {
-      url: `https://eth-ropsten.alchemyapi.io/v2/${process.env.ALCHEMY_API_KEY}`,
+      url: `https://ropsten.infura.io/v3/${process.env.INFURA_PROJECT_ID}`,
       accounts: [`${process.env.PRIVATE_KEY}`]
     }
   }
